@@ -1,4 +1,6 @@
-# Hospital Revenue Cycle Management (RCM): Denial Root Cause Analysis
+# Enterprise Healthcare Analytics: Revenue Cycle Management Dashboard
+
+### **[Access the Interactive Tableau Dashboard Here](https://lnkd.in/dnMPDKMx)**
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -10,9 +12,11 @@
 
 <br>
 
-> **The Bottom Line:** In healthcare, delayed or denied insurance claims trap millions of dollars in accounts receivable (AR). This project is an end-to-end data analytics pipeline designed to identify the root causes of revenue leakage, isolate offending clinical departments, and track $1M+ in at-risk revenue.
+<p align="center">
+  <img src="dashboard_preview.jpg" alt="RCM Dashboard Preview" width="850">
+</p>
 
-### **[View the Interactive Tableau Dashboard Here](https://lnkd.in/dnMPDKMx)**
+> **The Bottom Line:** In healthcare, delayed or denied insurance claims trap millions of dollars in accounts receivable (AR). This project is an end-to-end data analytics pipeline designed to identify the root causes of revenue leakage, isolate offending clinical departments, and track $1M+ in at-risk revenue.
 
 ---
 
