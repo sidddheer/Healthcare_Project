@@ -13,7 +13,7 @@
 <br>
 
 <p align="center">
-  <img src="dashboard_preview.jpg" alt="RCM Dashboard Preview" width="850">
+  <img src="dashboard_preview.png" alt="RCM Dashboard Preview" width="850">
 </p>
 
 > **The Bottom Line:** In healthcare, delayed or denied insurance claims trap millions of dollars in accounts receivable (AR). This project is an end-to-end data analytics pipeline designed to identify the root causes of revenue leakage, isolate offending clinical departments, and track $1M+ in at-risk revenue.
